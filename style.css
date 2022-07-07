@@ -1,0 +1,195 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+}
+
+h1 {
+  font-style: normal;
+  font-family: 'Raleway', sans-serif;
+  color: #ffffff;
+  text-align: center;
+  font-size: 60px;
+}
+
+.hero-title {
+  font-style: normal;
+  font-family: 'Bebas Neue', cursive;
+  text-align: center;
+  font-size: 90px;
+  color: white;
+}
+
+.red-content-container {
+  background-color: #75beaf;
+  padding: 10px 10px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.image-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+  margin: 5px;
+  padding: 0;
+  justify-content: center;
+}
+
+img {
+  width: 31%;
+  height: 325px;
+  padding-top: 5px;
+  padding-bottom: 30px;
+  margin-top: 0;
+  margin: 13px;
+  object-fit: cover;
+}
+
+.image-container-2 {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+  margin: 0 auto;
+  margin-top: 45px;
+  padding: 0;
+  justify-content: center;
+}
+
+
+
+
+.hero-text-1 {
+  font-family: 'Raleway', sans-serif;
+  font-size: 40px;
+  font-style: italic;
+  text-align: center; 
+  color: white;
+}
+.hero-text-2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 50px;
+  font-style: strong;
+  text-align: center; 
+  color: white;
+}
+
+.hero-content-container {
+  background-color: #95e4bf;
+  padding: 10px 10px;
+  padding-top: 5px;
+  padding-bottom: 50px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.video-container {
+  padding-top: 5px;
+  padding-bottom: 20px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.hero-media-container {
+  padding: 4px;
+}
+
+.media-title {
+  font-style: normal;
+  font-family: 'Bebas Neue', cursive;
+  text-align: center;
+  font-size: 90px;
+  color: white;
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+.shop-now-btn {
+    margin: 0 auto;
+    display: block;
+    background-color: #87f3b4;
+    border: none;
+    color: white;
+    font-size: 40px;
+    font-family: 'Bebas Neue', cursive;
+    width: 500px;
+    padding: 10px 20px;
+    padding-top: 22px;
+    padding-bottom: 22px;
+    margin-bottom: 2px;
+    margin-top: 4px;
+}
+
+.shop-now-btn:hover {
+  background-color: #29774a; 
+}
+
+
+
+.header-container {
+  padding: 5px 10px;
+  margin-bottom: 1px;
+}
+
+
+.media-2 {
+  background-color: #c1ffec;
+  display: block;
+  margin: auto;
+  width: 900px;
+  height: 500px;
+  padding: 10px;
+  padding-bottom: 10px;
+  margin-top: 10px;
+}
+
+
+.nav-bar {
+  background-color: rgb(18, 104, 71);
+  padding: 5px 10px;
+  margin-bottom: 0;
+}
+
+.nav-bar-2 {
+  background-color: #a7d4be; /* 178A8A */
+  text-align: center;
+  padding-top: 0;
+}
+
+
+ul {
+  list-style-type: none;
+  display: inline-block;
+  font-style: normal;
+  margin: 3px;
+  padding: 0;
+  overflow: hidden;
+  font-family:'Bebas Neue', cursive;
+  font-size: 29px;
+  text-align: center;
+}
+
+ul li {
+  float: left;
+  margin: 0 2px;
+  
+}
+
+ul li a {
+  color: white;
+  display: block;
+  text-align: center;
+  padding: 14px 14px;
+  padding-bottom: 8px;
+  text-decoration: none;
+}
+
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #8cd4b9; 
+}
+
