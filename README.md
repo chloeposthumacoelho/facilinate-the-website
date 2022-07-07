@@ -14,7 +14,8 @@ a deterrent to donating can be lack of advertised opportunities nearby. When loo
 
 ## How facilinate was built
 1. The prototype was built in visual studio code w/ HTML, SCSS, and jQuery. (see the process at: https://www.behance.net/gallery/144848891/facilinate-a-better-more-personalized-way-to-donate)
-2. Actual app (at https://chloeposthumacoelho.github.io/Facilinate/) was developed using HTML/SCSS for the front-end, React.js/Babel/jQuery as the middle man, Procreate and canva for the design assets, and Firebase for functionality.
+2. Actual app (at https://chloeposthumacoelho.github.io/Facilinate/)
+The prototype was developed using figma. I then used HTML/SCSS for front-end purposes, as well as React.js/Babel/jQuery , Procreate and canva for the design assets, and Firebase for functionality testing.
 
 
 ## the facilinate website
